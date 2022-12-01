@@ -4,4 +4,4 @@
 https://julialang.org/
 
 ## Run the test
-Run with `julia test.jl
+Run with `julia test.jl`
